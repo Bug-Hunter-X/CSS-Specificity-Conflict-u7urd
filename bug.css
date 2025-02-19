@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates a common issue where specificity conflicts cause unexpected styling behavior.  The inner `div` is intended to have a `background-color` of blue, but due to the more specific selector applied to the first `div`, it inherits the `background-color` of red instead.
